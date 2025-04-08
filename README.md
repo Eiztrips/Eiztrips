@@ -2,7 +2,7 @@
 
 ---
 
-![Header Image](https://media.giphy.com/media/2tNf1N6fVe1de/giphy.gif)  
+![Header Image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhndnFrd3Y5dXlrMnFseDE5NWtrcXV0cW9ldDBma2tuaHBxdmowbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tz30dcgKE3GCTYpxol/giphy.gif)  
 
 ---
 
