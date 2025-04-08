@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👾 Привет, я **Eiztrips**
 
-<!--
-**Eiztrips/Eiztrips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+![Header Image](https://media.giphy.com/media/2tNf1N6fVe1de/giphy.gif)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Стек Технологий:
+
+![Tech Stack](https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,mysql,git,linux)
+
+---
+
+## 📊 Моя Статистика:
+
+![Eiztrips' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eiztrips&show_icons=true&theme=radical&hide_title=true)
+
+---
+
+## 🌱 Что изучаю:
+
+- TypeScript
+- Node.js  
+- Spring boot
+
+---
+
+## 📫 Связаться со мной:
+- **Telegram:** [@contact_eiztrips](https://t.me/contact_eiztrips)
+- **Discord:** `eiztrips`
+
+---
+
+> _"Пиши код, как будто завтра всё взорвётся."_
