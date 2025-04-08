@@ -2,7 +2,7 @@
 
 ---
 
-![Header Image](https://media.giphy.com/media/2tNf1N6fVe1de/giphy.gif)  
+![Header Image]([https://media.giphy.com/media/2tNf1N6fVe1de/giphy.gif](https://media.giphy.com/media/Tz30dcgKE3GCTYpxol/giphy.gif?cid=ecf05e47g1amwtbaxhakrl2a122gobapnyqy5by666fk8ie4&ep=v1_gifs_search&rid=giphy.gif&ct=g))  
 
 ---
 
@@ -12,7 +12,7 @@
 
 ## 🥎 OTHER SKILLS:
 
-![Tech Stack](https://skillicons.dev/icons?i=js,nodejs,ts,react,vita)
+![Tech Stack](https://skillicons.dev/icons?i=js,nodejs,ts,react)
 
 ---
 
