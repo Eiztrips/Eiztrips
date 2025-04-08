@@ -24,8 +24,7 @@
 
 ## 🌱 Что изучаю:
 
-- TypeScript
-- Node.js  
+- Java
 - Spring boot
 
 ---
