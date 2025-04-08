@@ -8,7 +8,7 @@
 
 ## 🛠️ MAIN SKILLS:
 
-![Tech Stack](https://skillicons.dev/icons?i=java,python,springboot,postgresql,archlinux,kalilinux,manjaro,linux,html,css,git)
+![Tech Stack](https://skillicons.dev/icons?i=java,python,postgresql,linux,html,css,git)
 
 ## 🥎 OTHER SKILLS:
 
