@@ -6,9 +6,13 @@
 
 ---
 
-## 🛠️ Стек Технологий:
+## 🛠️ MAIN SKILLS:
 
-![Tech Stack](https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,mysql,git,linux)
+![Tech Stack](https://skillicons.dev/icons?i=java,python,springboot,postgresql,archlinux,kalilinux,manjaro,linux,html,css,git)
+
+## 🥎 OTHER SKILLS:
+
+![Tech Stack](https://skillicons.dev/icons?i=js,nodejs,ts,react,vita)
 
 ---
 
