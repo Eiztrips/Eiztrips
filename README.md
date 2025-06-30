@@ -113,7 +113,7 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Eiztrips)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/contact_eiztrips)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eiztrips.dev@yandex.ru)
 
 </div>
@@ -131,3 +131,17 @@
 > **Создаю надёжные backend решения, которые масштабируются и приносят бизнес-результат** 💼
 
 </div>
+
+---
+
+## 📊 GitHub Статистика
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Eiztrips&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="GitHub Stats"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eiztrips&layout=compact&theme=radical" alt="Top Langs"/>
+
+</div>
+
+---
