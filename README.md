@@ -1,147 +1,43 @@
 <div align="center">
 
-# 🚀 Eiztrips — Java Backend Developer
+# 🚀 Eiztrips  
 
-<img src="https://media.tenor.com/5uCC2ilwcm8AAAAi/arch-i-use-arch-btw.gif" width="400" alt="Coding GIF"/>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75C7E&lines=Java+Backend+Developer;Spring+%7C+PostgreSQL+%7C+Docker;Always+learning+new+things)
 
----
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-
-> **Основная специализация:** Java Backend Development + PostgreSQL  
-> **Дополнительные навыки:** Python, JavaScript, TypeScript, DevOps
-
-
-
-</div>
+<img src="https://media.tenor.com/5uCC2ilwcm8AAAAi/arch-i-use-arch-btw.gif" width="300"/>
 
 ---
 
-## 💻 Технический стек
+### 🛠️ Tech Stack  
 
-<details>
-<summary><strong>☕ Java & Enterprise Ecosystem</strong></summary>
-
-- **Core:** Java 11+ (LTS versions), Streams API, Multithreading, Memory Management
-- **Frameworks:** Spring Boot (Data JPA, Security)
-- **Build & Testing:** Gradle, JUnit 5
-
-</details>
-
-<details>
-<summary><strong>🗄️ Базы данных и хранилища</strong></summary>
-
-- **PostgreSQL:** Advanced SQL
-- **ORM/ODM:** Hibernate/JPA
-- **Кэширование:** Redis
-
-</details>
-
-<details>
-<summary><strong>🐍 Python для автоматизации и ботов</strong></summary>
-
-- **Автоматизация:** Скрипты для DevOps, data processing, monitoring
-- **Web:** Flask, FastAPI для микросервисов и REST API
-- **Data:** pandas, requests для интеграций и аналитики
-- **Bot Development:** 
-  - **Discord:** discord.py, discord-interactions
-  - **Telegram:** python-telegram-bot, aiogram
-  - **VK:** vk-api, vkbottle
-  - **Webhook & Polling:** Обработка событий, middleware, состояния
-
-</details>
-
-<details>
-<summary><strong>🌐 Frontend & Full-Stack</strong></summary>
-
-- **JavaScript/TypeScript:** ES6+, async/await
-- **Frameworks:** React, Node.js
-- **API Integration:** REST, GraphQL
-
-</details>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
-## ⚡ Ключевые компетенции
+### 📊 GitHub Stats  
 
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 Backend Architecture
-- **Микросервисная архитектура**
-- **Domain-Driven Design (DDD)**
-- **Clean Architecture принципы**
-- **Performance optimization**
-
-</td>
-<td width="50%">
-
-### 🏗️ API Design & Integration
-- **RESTful API** (OpenAPI/Swagger)
-- **GraphQL** (schema design)
-- **Event-driven architecture**
-- **Message queues** (RabbitMQ, Kafka)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🐳 DevOps & Cloud
-- **Containerization:** Docker, Docker 
-- **Monitoring:** Grafana
-
-</td>
-<td width="50%">
-
-### 🔄 CI/CD & Quality
-- **Jenkins**, **GitHub Actions**, **GitLab CI**
-- **Code review culture**
-
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=Eiztrips&show_icons=true&theme=radical&hide_title=true&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eiztrips&layout=compact&theme=radical" height="160"/>
 
 ---
 
-## 📫 Контакты
+### 🏆 Achievements  
 
-<div align="center">
+![trophy](https://github-profile-trophy.vercel.app/?username=Eiztrips&theme=radical&no-frame=true&no-bg=true&row=1&column=6)
+
+---
+
+### 🌍 Contacts  
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/contact_eiztrips)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eiztrips.dev@yandex.ru)
 
-</div>
-
 ---
 
-<div align="center">
-
-### 🛠️ Готов реализовать
-
-`Микросервисы` • `High-load системы` • `API Design` • `Database Optimization` • `Cloud Migration` • `Team Leadership` • `Telegram/Discord/VK Боты`
-
----
-
-> **Создаю надёжные backend решения, которые масштабируются и приносят бизнес-результат** 💼
+✨ *“Building scalable backend solutions with clean architecture”* ✨  
 
 </div>
-
----
-
-## 📊 GitHub Статистика
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Eiztrips&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="GitHub Stats"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eiztrips&layout=compact&theme=radical" alt="Top Langs"/>
-
-</div>
-
----
