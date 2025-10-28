@@ -151,10 +151,6 @@ public class Developer {
 <!-- GitHub Stats -->
 <img src="./assets/stats.svg" width="100%" alt="GitHub Stats"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eiztrips&show_icons=true&theme=transparent&hide_border=true&title_color=007AFF&icon_color=007AFF&text_color=007AFF&hide_title=false&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=Eiztrips&theme=transparent&hide_border=true&ring=007AFF&fire=007AFF&currStreakNum=007AFF&sideNums=007AFF&currStreakLabel=007AFF&sideLabels=007AFF&dates=007AFF" height="180" alt="GitHub Streak"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eiztrips&layout=compact&theme=transparent&hide_border=true&title_color=007AFF&text_color=007AFF&langs_count=8" height="180" alt="Top Languages"/>
