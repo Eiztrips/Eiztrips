@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24&height=220&section=header&text=Eiztrips&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Backend%20Developer%20|%20System%20Architect&descSize=20&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24&height=220&section=header&text=Eiztrips&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=33&desc=Backend%20Developer%20&descSize=20&descAlignY=55" width="100%"/>
 
 <!-- Tech Icons Row -->
 <p align="center">
