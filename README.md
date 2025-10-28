@@ -1,14 +1,16 @@
 <div align="center">
 
-<!-- Header with gradient -->
-<img src="./assets/header.svg" width="100%" alt="Header"/>
+<!-- Header Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24&height=220&section=header&text=Eiztrips&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Backend%20Developer%20|%20System%20Architect&descSize=20&descAlignY=55" width="100%"/>
 
-<h1 style="font-size: 3.5em; font-weight: 300; letter-spacing: -1px; margin: 20px 0;">
-  Eiztrips
-</h1>
+<!-- Tech Icons Row -->
+<p align="center">
+  <a href="#"><img src="https://img.icons8.com/color/96/mac-os--v1.png" alt="macOS" width="70" height="70"/></a>
+</p>
 
-<p align="center" style="font-size: 1.2em; color: #86868b; margin: 10px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=24&duration=3000&pause=1000&color=007AFF&center=true&vCenter=true&width=700&lines=Backend+Developer;Crafting+Scalable+Microservices;Spring+%7C+PostgreSQL+%7C+Docker+%7C+Kubernetes;Clean+Architecture+Advocate" alt="Typing SVG" />
+<!-- Animated Typing Text -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=007AFF&center=true&vCenter=true&width=800&lines=Backend+Developer+%7C+System+Architect;Java+%7C+Spring+Boot+%7C+Microservices;PostgreSQL+%7C+Docker+%7C+Kubernetes;Building+Scalable+Systems;I+use+Arch+BTW+%F0%9F%90%A7+%7C+macOS+Lover+%F0%9F%8D%8E" alt="Typing SVG" />
 </p>
 
 <p align="center">

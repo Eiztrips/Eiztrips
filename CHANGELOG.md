@@ -2,6 +2,22 @@
 
 All notable changes to this GitHub profile project.
 
+## [2.2.0] - 2025-10-29
+
+### Added - Apple & Arch Icons with Animated Header
+- **Animated waving header** - Dynamic gradient banner with twinkling effect
+- **Tech icons row** - macOS, Arch Linux, Spring Boot with animated GIFs
+- **Enhanced typing animation** - Added "I use Arch BTW 🐧 | macOS Lover 🍎"
+- **Custom SVG banner** - Created apple-arch-banner.svg with animations
+- **Header variants guide** - 10 alternative header designs in HEADER_VARIANTS.md
+
+### Changed
+- Replaced static SVG header with animated Capsule Render
+- Updated typing text to include Arch Linux reference
+- Added programming and tech animated GIFs
+- Increased header height: 200px → 220px
+- Font size: 80 → 90 for better visibility
+
 ## [2.1.0] - 2025-10-28
 
 ### Fixed - Dark Theme Compatibility
