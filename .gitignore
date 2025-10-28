@@ -1,0 +1,57 @@
+# Backup files
+*.bak
+*.backup
+*_OLD.*
+*_BACKUP.*
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Node modules (if adding any JS tools)
+node_modules/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+.pytest_cache/
+
+# Generated files
+generated/
+output/
+dist/
+build/
+
+# Custom generated SVGs (optional - uncomment if you don't want to commit generated files)
+# assets/custom-*.svg
+# assets/generated-*.svg

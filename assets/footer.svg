@@ -1,0 +1,16 @@
+<svg width="1000" height="40" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#007AFF;stop-opacity:0.1" />
+      <stop offset="50%" style="stop-color:#5AC8FA;stop-opacity:0.1" />
+      <stop offset="100%" style="stop-color:#007AFF;stop-opacity:0.1" />
+    </linearGradient>
+  </defs>
+  
+  <rect x="0" y="0" width="1000" height="40" fill="url(#footerGradient)"/>
+  
+  <!-- Minimalist dots pattern -->
+  <circle cx="480" cy="20" r="1.5" fill="#007AFF" opacity="0.3"/>
+  <circle cx="500" cy="20" r="1.5" fill="#5AC8FA" opacity="0.3"/>
+  <circle cx="520" cy="20" r="1.5" fill="#007AFF" opacity="0.3"/>
+</svg>

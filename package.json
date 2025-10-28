@@ -1,0 +1,65 @@
+{
+  "name": "github-profile-apple-sky-blue",
+  "version": "1.0.0",
+  "description": "Apple Sky Blue themed GitHub profile with animated SVG assets and custom scripts",
+  "author": "Eiztrips",
+  "license": "MIT",
+  "keywords": [
+    "github",
+    "profile",
+    "readme",
+    "apple",
+    "sky-blue",
+    "svg",
+    "animated",
+    "template"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Eiztrips/Eiztrips.git"
+  },
+  "scripts": {
+    "generate:svg": "bash scripts/generate-svg.sh",
+    "generate:badge": "python3 scripts/badge-generator.py"
+  },
+  "theme": {
+    "colors": {
+      "primary": "#007AFF",
+      "secondary": "#5AC8FA",
+      "background": "#E8F4FF",
+      "text": "#1D1D1F",
+      "accent": "#FFD700"
+    },
+    "fonts": {
+      "primary": "SF Pro Display",
+      "fallback": "-apple-system, BlinkMacSystemFont, sans-serif"
+    }
+  },
+  "assets": {
+    "svg": [
+      "assets/header.svg",
+      "assets/wave.svg",
+      "assets/about.svg",
+      "assets/tech-stack.svg",
+      "assets/stats.svg",
+      "assets/achievements.svg",
+      "assets/projects.svg",
+      "assets/contact.svg",
+      "assets/footer.svg"
+    ],
+    "scripts": [
+      "scripts/generate-svg.sh",
+      "scripts/badge-generator.py"
+    ]
+  },
+  "features": [
+    "Animated SVG headers",
+    "Apple Sky Blue color scheme",
+    "Responsive design",
+    "Custom script generators",
+    "GitHub stats integration",
+    "Tech stack showcase",
+    "Project highlights",
+    "Contact section"
+  ]
+}
