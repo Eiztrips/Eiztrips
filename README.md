@@ -152,13 +152,13 @@ public class Developer {
 <img src="./assets/stats.svg" width="100%" alt="GitHub Stats"/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eiztrips&show_icons=true&theme=default&hide_border=true&bg_color=E8F4FF&title_color=007AFF&icon_color=007AFF&text_color=1D1D1F&hide_title=false&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eiztrips&theme=default&hide_border=true&background=E8F4FF&ring=007AFF&fire=007AFF&currStreakLabel=1D1D1F&sideNums=1D1D1F&currStreakNum=007AFF&sideLabels=1D1D1F" height="180" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Eiztrips&show_icons=true&theme=transparent&hide_border=true&title_color=007AFF&icon_color=007AFF&text_color=007AFF&hide_title=false&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Eiztrips&theme=transparent&hide_border=true&ring=007AFF&fire=007AFF&currStreakNum=007AFF&sideNums=007AFF&currStreakLabel=007AFF&sideLabels=007AFF&dates=007AFF" height="180" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eiztrips&layout=compact&theme=default&hide_border=true&bg_color=E8F4FF&title_color=007AFF&text_color=1D1D1F&langs_count=8" height="180" alt="Top Languages"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eiztrips&theme=github-light&hide_border=true&bg_color=E8F4FF&color=007AFF&line=007AFF&point=007AFF&area=true&custom_title=Contribution%20Graph" height="180" alt="Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eiztrips&layout=compact&theme=transparent&hide_border=true&title_color=007AFF&text_color=007AFF&langs_count=8" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eiztrips&theme=github-compact&hide_border=true&color=007AFF&line=007AFF&point=5AC8FA&area=true&area_color=007AFF&custom_title=Contribution%20Graph" height="180" alt="Activity Graph"/>
 </p>
 
 ---
@@ -167,7 +167,7 @@ public class Developer {
 <img src="./assets/achievements.svg" width="100%" alt="Achievements"/>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Eiztrips&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Eiztrips&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage" alt="Trophies"/>
 </p>
 
 ---

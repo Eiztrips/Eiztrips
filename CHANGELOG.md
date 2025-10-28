@@ -2,6 +2,24 @@
 
 All notable changes to this GitHub profile project.
 
+## [2.1.0] - 2025-10-28
+
+### Fixed - Dark Theme Compatibility
+- **Fixed GitHub Streak Stats** - Updated URL from herokuapp.com to demolab.com
+- **Transparent themes** - All stats now use transparent backgrounds
+- **Improved SVG visibility** - Increased opacity and line width for dark theme
+- **Better contrast** - Changed text color from gray to blue (#007AFF)
+- **Enhanced readability** - Improved font weight and spacing
+
+### Changed
+- Streak Stats: `github-readme-streak-stats.herokuapp.com` → `streak-stats.demolab.com`
+- All stats widgets: `bg_color=E8F4FF` → `theme=transparent`
+- SVG line opacity: `0.3` → `0.5`
+- SVG line width: `1px` → `1.5px`
+- SVG text color: `#1d1d1f` → `#007AFF`
+- SVG font weight: `300` → `400`
+- Header/footer dots: larger and more visible
+
 ## [2.0.0] - 2025-10-28
 
 ### Changed - Major Design Overhaul
